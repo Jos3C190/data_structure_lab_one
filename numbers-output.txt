@@ -1,0 +1,12 @@
+1  -  _
+2  -  Prime Even
+4  -  Even
+100  -  Even
+34  -  Even
+5  -  Prime
+133  -  _
+75  -  _
+50  -  Even
+17  -  Prime
+73  -  Prime
+99  -  _
